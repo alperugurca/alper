@@ -5,8 +5,13 @@ with open("README.md", "r") as f:
 
 setup(
     name="alper",
-    version="0.1.3",
+    version="0.1.4",
     packages=find_packages(),
+    url="https://github.com/alperugurca/alper",
+    project_urls={
+        "Source": "https://github.com/alperugurca/alper",
+        "Bug Tracker": "https://github.com/alperugurca/alper/issues",
+    },
     install_requires=["yt-dlp"],
     entry_points={
         "console_scripts": [

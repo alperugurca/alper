@@ -22,7 +22,7 @@ env/
 .DS_Store
 Thumbs.db
 
-# İndirilen medya (needmusic/needvideo test)
+# Downloaded media (needmusic/needvideo test)
 *.mp4
 *.webm
 *.m4a
