@@ -1,0 +1,29 @@
+# Build
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# İndirilen medya (needmusic/needvideo test)
+*.mp4
+*.webm
+*.m4a
+*.mp3
